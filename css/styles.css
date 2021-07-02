@@ -1,0 +1,145 @@
+body{
+    font-family: "Montserrat";
+}
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    line-height: 1.5;
+    font-size: 3rem;
+    color: white;
+}
+h2{
+    font-family: "Montserrat";
+    font-weight: 600;
+    font-size: 3rem;
+    line-height: 1.5;
+}
+h3{
+    font-family: "Montserrat-Bold";
+    font-weight: 900; 
+}
+
+#title{
+    background-color: #ff4c68;
+}
+
+.container-fluid{
+    padding: 3% 15%;
+}
+.navbar{
+    padding-bottom: 4.5rem;
+}
+#iphone-mockup{
+    width: 16rem;
+    height: 30rem;
+    transform: rotate(25deg);
+    margin-top: 2rem;
+}
+.navbar-brand{
+    font-size: 2rem;
+    font-family: "Ubuntu";
+}
+.nav-item{
+    padding: 0 18px;
+}
+.nav-link{
+    font-size: 1.2rem;
+    font-family: "Montserrat-Light";
+}
+.download-button{
+    margin: 3% 2% 3% 0;
+}
+
+p{
+    color: #8f8f8f;
+}
+#features{
+    padding: 4% 15%;
+}
+.feature-box{
+    text-align: center;
+    padding: 4.5%;
+}
+
+.icon{
+    color: #f30c59f1;
+    margin-bottom: 1rem;
+}
+
+.icon:hover{
+    color: #ff066eee;
+}
+
+#testimonials{
+    text-align: center;
+    background-color: #ff4c68;
+    color: #fff;
+    
+}
+.testimonials-image{
+    width: 10%;
+    border-radius: 100%;
+    margin: 2rem 2rem;
+}
+#press{
+    background-color: #ff4c68;
+    padding-bottom: 5%;
+    text-align: center;
+}
+.press-logo{
+    width: 12%;
+    margin: 4% 5% 0;
+    
+}
+.carousel-item{
+    padding: 4% 15%;
+}
+
+#pricing{
+    text-align: center;
+    padding: 100px;
+}
+.pricing-colomn{
+   padding: 3% 3%;
+}
+
+.card-header{
+    background-color: rgb(235, 226, 226);
+}
+#pricing h2 {
+    font-size: 2rem;
+}
+
+.card-body p{
+    color: black;
+}
+
+#cta{
+    text-align: center;
+    background-color: #ff4c68;
+    padding: 80px 15% 10%;
+}
+
+.cta-button{
+    margin-top: 25px;
+}
+#footer{
+    text-align: center;
+    margin-bottom: 10%;
+}
+
+#footer p{
+    color: black;
+}
+.social{
+    padding: 10% 0 4rem;
+}
+.social-connect{
+    padding: 0px 40px;
+}
+.social-icon {
+    color: black;
+}
+.social-icon:hover{
+    color: rgb(248, 38, 126);
+}
